@@ -15,26 +15,48 @@
 <br><br>
 
 <a href="https://www.linkedin.com/in/vidhaan-mathur-a2b54337/">
-  <img src="https://img.shields.io/badge/LINKEDIN-35F5D0?style=flat-square&logo=linkedin&logoColor=050505"/>
+  <img
+    src="https://img.shields.io/badge/↗%20LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=35F5D0&labelColor=050505"
+    height="38"
+  />
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://github.com/vidhaanm07">
-  <img src="https://img.shields.io/badge/GITHUB-35F5D0?style=flat-square&logo=github&logoColor=050505"/>
+  <img
+    src="https://img.shields.io/badge/↗%20GITHUB-050505?style=for-the-badge&logo=github&logoColor=35F5D0&labelColor=050505"
+    height="38"
+  />
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://leetcode.com/u/vidhaanm07/">
-  <img src="https://img.shields.io/badge/LEETCODE-35F5D0?style=flat-square&logo=leetcode&logoColor=050505"/>
+  <img
+    src="https://img.shields.io/badge/↗%20LEETCODE-050505?style=for-the-badge&logo=leetcode&logoColor=35F5D0&labelColor=050505"
+    height="38"
+  />
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://vidhaanmportfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-35F5D0?style=flat-square&logo=vercel&logoColor=050505"/>
+  <img
+    src="https://img.shields.io/badge/↗%20PORTFOLIO-050505?style=for-the-badge&logo=vercel&logoColor=35F5D0&labelColor=050505"
+    height="38"
+  />
 </a>
 
 <br><br>
 
 <sub>
-Software Engineer • AI Builder • Electronics Engineer • Photographer
+CONNECT • BUILD • EXPLORE
 </sub>
+
+<br><br>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:35F5D0,100:050505&height=1&section=header"
+  width="55%"
+/>
 
 </div>
 
@@ -443,25 +465,34 @@ Exploring unique and less-explored places through different perspectives.
 <br>
 
 <a href="https://www.linkedin.com/in/vidhaan-mathur-a2b54337/">
-LinkedIn
+  <img
+    src="https://img.shields.io/badge/↗%20LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=35F5D0&labelColor=050505"
+    height="34"
+  />
 </a>
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://github.com/vidhaanm07">
-GitHub
+  <img
+    src="https://img.shields.io/badge/↗%20GITHUB-050505?style=for-the-badge&logo=github&logoColor=35F5D0&labelColor=050505"
+    height="34"
+  />
 </a>
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/vidhaanm07/">
-LeetCode
+  <img
+    src="https://img.shields.io/badge/↗%20LEETCODE-050505?style=for-the-badge&logo=leetcode&logoColor=35F5D0&labelColor=050505"
+    height="34"
+  />
 </a>
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://vidhaanmportfolio.vercel.app/">
-Portfolio
+  <img
+    src="https://img.shields.io/badge/↗%20PORTFOLIO-050505?style=for-the-badge&logo=vercel&logoColor=35F5D0&labelColor=050505"
+    height="34"
+  />
 </a>
 
 <br><br>
