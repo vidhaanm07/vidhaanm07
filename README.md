@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2800&pause=900&color=35F5D0&center=true&vCenter=true&width=800&lines=VIDHAAN+MATHUR;SOFTWARE+%C3%97+AI+%C3%97+ELECTRONICS+%C3%97+IoT;BUILDING+INTELLIGENT+SYSTEMS" alt="Typing Header"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2800&pause=900&color=35F5D0&center=true&vCenter=true&width=850&lines=VIDHAAN+MATHUR;SOFTWARE+%C3%97+AI+%C3%97+ELECTRONICS+%C3%97+IoT;BUILDING+INTELLIGENT+SYSTEMS" alt="Typing Header"/>
 
 <br>
 
@@ -53,7 +53,7 @@ I am **Vidhaan Mathur**, an Electronics Engineering student focused on becoming 
 
 My work sits at the intersection of:
 
-**Software × AI × Electronics × IoT**
+### Software × AI × Electronics × IoT
 
 I enjoy building practical systems involving **AI agents, GenAI, LLMs, automation, intelligent applications, IoT and electronics**.
 
@@ -77,12 +77,11 @@ Currently exploring how software and AI can interact with real-world systems.
 
 ## `02 — WHAT I BUILD`
 
-</div>
-
-<div align="center">
+<br>
 
 <table>
 <tr>
+
 <td align="center" width="220">
 
 ### SOFTWARE
@@ -135,9 +134,7 @@ Analog Systems
 
 ## `03 — TECHNOLOGY STACK`
 
-</div>
-
-<div align="center">
+<br>
 
 ### PROGRAMMING
 
@@ -179,11 +176,10 @@ Analog Systems
 
 ## `04 — FEATURED WORK`
 
-</div>
-
-<div align="center">
+<br>
 
 <table>
+
 <tr>
 
 <td width="45%" align="center">
@@ -192,15 +188,16 @@ Analog Systems
 
 AI-powered customer support automation system.
 
+<br>
+
 **Built with**
 
-n8n • LLMs • Google Sheets • APIs  
+n8n • LLMs • Google Sheets • APIs
+
 Classification • Sentiment Analysis  
 Priority Detection • Human-in-the-Loop
 
 <br>
-
-Automates the journey from:
 
 **Customer Ticket → AI Analysis → Team Assignment → Resolution**
 
@@ -212,6 +209,8 @@ Automates the journey from:
 
 Exploration of multimodal AI pipelines using lightweight local models.
 
+<br>
+
 **Built with**
 
 Hugging Face  
@@ -222,8 +221,6 @@ MobileNet
 Gradio
 
 <br>
-
-Handles:
 
 **Text • Image • Audio • Video**
 
@@ -239,9 +236,13 @@ Handles:
 
 Database management application developed using:
 
+<br>
+
 **Python + MySQL**
 
-Includes structured database operations and management workflows.
+<br>
+
+Structured database operations and management workflows.
 
 </td>
 
@@ -251,13 +252,18 @@ Includes structured database operations and management workflows.
 
 IoT and electronics simulation work using:
 
+<br>
+
 **Autodesk Tinkercad**
+
+<br>
 
 Exploring sensors, circuits, embedded concepts and real-world system behaviour.
 
 </td>
 
 </tr>
+
 </table>
 
 </div>
@@ -270,15 +276,14 @@ Exploring sensors, circuits, embedded concepts and real-world system behaviour.
 
 ## `05 — AI / AUTOMATION`
 
-</div>
-
-<div align="center">
+<br>
 
 <table>
+
 <tr>
 <td align="center">
 
-**AI AGENTS**
+### AI AGENTS
 
 Designing workflows where LLMs can reason, call tools and perform actions.
 
@@ -288,7 +293,7 @@ Designing workflows where LLMs can reason, call tools and perform actions.
 <tr>
 <td align="center">
 
-**GENAI**
+### GENERATIVE AI
 
 Exploring generative AI, LLM applications and intelligent interfaces.
 
@@ -298,7 +303,7 @@ Exploring generative AI, LLM applications and intelligent interfaces.
 <tr>
 <td align="center">
 
-**MCP**
+### MCP
 
 Exploring Model Context Protocol and tool-based AI systems.
 
@@ -308,12 +313,13 @@ Exploring Model Context Protocol and tool-based AI systems.
 <tr>
 <td align="center">
 
-**AUTOMATION**
+### AUTOMATION
 
 Building practical workflows using n8n, APIs, AI models and external services.
 
 </td>
 </tr>
+
 </table>
 
 </div>
@@ -326,35 +332,39 @@ Building practical workflows using n8n, APIs, AI models and external services.
 
 ## `06 — EXPERIENCE & LEARNING`
 
-</div>
-
-<div align="center">
+<br>
 
 ### IIT JAMMU — AI INTERNSHIP
 
 **AI (Gen AI, LLMs & AI Agents)**
 
+<br>
+
 Worked with:
 
-`n8n` • `NLP` • `Vapi` • `Clay AI`  
-`OpenAI SDK` • `Transformers` • `Hugging Face`  
+`n8n` • `NLP` • `Vapi` • `Clay AI`
+
+`OpenAI SDK` • `Transformers` • `Hugging Face`
+
 `Gradio` • `Telegram / WhatsApp Bots`
 
-<br>
+<br><br>
 
 ### ADDITIONAL LEARNING
 
 **Anthropic Claude with Vertex AI + MCP Advanced**
 
+<br>
+
 Focused particularly on:
 
 **MCP • AI Agents • RAG • LLM Applications**
 
-<br>
+<br><br>
 
 **n8n Academy — n8n102 Integrations**
 
-<br>
+<br><br>
 
 **Google Cloud Arcade Facilitator Program 2026**
 
@@ -368,9 +378,7 @@ Focused particularly on:
 
 ## `07 — BEYOND CODE`
 
-</div>
-
-<div align="center">
+<br>
 
 ### PHOTOGRAPHY
 
@@ -408,11 +416,19 @@ My focus is on discovering **unique, less-explored places** and capturing them f
 
 <br>
 
-<img src="https://raw.githubusercontent.com/vidhaannm07/vidhaannm07/main/profile/stats.svg" width="95%" alt="GitHub Statistics"/>
+<img
+src="https://github.com/vidhaannm07/vidhaannm07/raw/refs/heads/main/profile/stats.svg"
+width="95%"
+alt="GitHub Statistics"
+/>
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/vidhaannm07/vidhaannm07/main/profile/top-langs.svg" width="95%" alt="Top Languages"/>
+<img
+src="https://github.com/vidhaannm07/vidhaannm07/raw/refs/heads/main/profile/top-langs.svg"
+width="95%"
+alt="Top Languages"
+/>
 
 </div>
 
@@ -450,7 +466,10 @@ Portfolio
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:35F5D0,100:050505&height=2&section=footer" width="80%"/>
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:35F5D0,100:050505&height=2&section=footer"
+width="80%"
+/>
 
 <br>
 
