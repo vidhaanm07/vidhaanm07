@@ -1,293 +1,321 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                    VIDHAAN MATHUR · README                     -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
-
-<a href="https://vidhaanmportfolio.vercel.app/">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050505,50:071414,100:061f1c&text=VIDHAAN%20MATHUR&fontColor=E8FFFB&fontSize=42&fontAlignY=40&desc=SOFTWARE%20×%20AI%20×%20ELECTRONICS%20×%20IoT&descAlignY=62&descSize=15&animation=fadeIn" width="100%"/>
-</a>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=35F5D0&center=true&vCenter=true&width=700&lines=Software+Engineer+in+Progress;Building+with+AI%2C+LLMs+%26+Intelligent+Agents;Exploring+the+intersection+of+Software+%26+Electronics;Turning+ideas+into+working+systems." alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=2500&pause=1000&color=E8FFFB&center=true&vCenter=true&width=850&height=70&lines=VIDHAAN+MATHUR" alt="Vidhaan Mathur"/>
 
-<br><br>
-
-<a href="https://www.linkedin.com/in/vidhaan-mathur-a2b54337a/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=35F5D0&labelColor=0A0A0A&color=0A0A0A"/>
-</a>
-&nbsp;
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GITHUB-0A0A0A?style=for-the-badge&logo=github&logoColor=35F5D0&labelColor=0A0A0A&color=0A0A0A"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
-<img src="https://img.shields.io/badge/LEETCODE-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=35F5D0&labelColor=0A0A0A&color=0A0A0A"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&duration=2800&pause=800&color=35F5D0&center=true&vCenter=true&width=850&height=45&lines=SOFTWARE+%C3%97+AI+%C3%97+ELECTRONICS+%C3%97+IoT;Building+intelligent+systems+with+code+%26+AI;Exploring+LLMs%2C+AI+Agents+%26+automation" alt="Introduction"/>
 
 <br><br>
 
 <a href="https://vidhaanmportfolio.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-35F5D0?style=for-the-badge&labelColor=050505&color=35F5D0"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-050505?style=for-the-badge&logo=googlechrome&logoColor=35F5D0&labelColor=050505&color=35F5D0" />
 </a>
+
+<a href="https://www.linkedin.com/in/vidhaan-mathur-a2b54337a/">
+<img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=35F5D0&labelColor=050505&color=35F5D0" />
+</a>
+
+<a href="https://github.com/vidhaannm07">
+<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=35F5D0&labelColor=050505&color=35F5D0" />
+</a>
+
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+<img src="https://img.shields.io/badge/LEETCODE-050505?style=for-the-badge&logo=leetcode&logoColor=35F5D0&labelColor=050505&color=35F5D0" />
+</a>
+
+<br><br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=35F5D0" width="70%"/>
 
 </div>
 
----
+<br>
 
-## `01` — PROFILE
+<div align="center">
 
-I am **Vidhaan Mathur**, an Electronics Engineering (Instrumentation and Control) student at **Thapar Institute of Engineering & Technology**, working toward a career in software engineering.
+## `ABOUT`
 
-My interests sit at the intersection of:
+</div>
 
-```text
-SOFTWARE ENGINEERING
-        ×
-ARTIFICIAL INTELLIGENCE
-        ×
-ELECTRONICS
-        ×
-IoT
-```
+<div align="center">
 
-I enjoy building systems that combine software, intelligent models, automation and real-world interaction.
+I am **Vidhaan Mathur**, an Electronics Engineering (Instrumentation and Control) student at
+**Thapar Institute of Engineering & Technology**, building toward a career in software engineering.
 
-Currently exploring **Generative AI, LLMs, AI Agents, RAG, MCP, automation and intelligent applications** while strengthening my foundations in computer science and software engineering.
+My work focuses on the intersection of **software engineering, artificial intelligence, electronics and IoT**.
 
----
+I am particularly interested in **Generative AI, LLMs, AI Agents, RAG, MCP, automation and intelligent applications**.
 
-## `02` — TECHNOLOGY STACK
+</div>
 
-### Artificial Intelligence
+<br>
 
-`GenAI` · `LLMs` · `AI Agents` · `NLP` · `RAG` · `MCP`
+<div align="center">
 
-### AI Engineering
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=35F5D0" width="55%"/>
 
-`Python` · `OpenAI SDK` · `Hugging Face` · `Transformers` · `LangChain` · `Gradio`
+## `TECHNOLOGY`
 
-### Automation & APIs
+<br>
 
-`n8n` · `Vapi` · `Clay AI` · `REST APIs` · `Webhooks` · `Telegram Bots`
+`Python`   `C`   `C++`   `MySQL`   `DSA`
 
-### Programming
+<br><br>
 
-`Python` · `C` · `C++` · `MySQL` · `DSA`
+`Generative AI`   `LLMs`   `AI Agents`   `NLP`
 
-### Engineering
+<br><br>
 
-`Digital Electronics` · `Analog Electronics` · `Instrumentation` · `Signals & Systems` · `IoT`
+`RAG`   `MCP`   `LangChain`   `OpenAI SDK`
 
----
+<br><br>
 
-## `03` — SELECTED WORK
+`Hugging Face`   `Transformers`   `Gradio`
+
+<br><br>
+
+`n8n`   `Vapi`   `Clay AI`   `REST APIs`   `Webhooks`
+
+<br><br>
+
+`Digital Electronics`   `Analog Electronics`   `Instrumentation`   `IoT`
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=35F5D0" width="55%"/>
+
+## `SELECTED WORK`
+
+<br>
 
 ### `CloudNest AI`
 
-**AI-powered support automation system**
+**AI-powered customer support automation**
 
-An intelligent workflow designed to automate customer-support operations.
+<br>
 
-```text
-Customer Request
-       ↓
-AI Analysis
-       ↓
-Classification
-       ↓
-Sentiment + Priority
-       ↓
-Team Assignment
-       ↓
-Human-in-the-Loop
-       ↓
-Automated Workflow
-```
+AI-driven workflow designed to analyze support requests, classify issues, determine sentiment and priority, assign teams and incorporate human intervention when required.
 
-**Core:** `n8n` · `LLMs` · `AI Agents` · `Google Sheets` · `APIs` · `Automation`
+<br>
+
+`n8n` · `LLMs` · `AI Agents` · `Google Sheets` · `APIs` · `Automation`
+
+<br><br>
 
 ---
 
 ### `Multimodal AI Lab`
 
-A collection of experiments exploring AI across multiple input modalities.
+**Exploring AI across multiple modalities**
 
-```text
-TEXT ──────┐
-IMAGE ─────┤
-AUDIO ─────┼──→ AI PIPELINES ──→ APPLICATIONS
-VIDEO ─────┘
-```
+<br>
 
-Technologies explored include:
+Experiments involving text, image, audio and video pipelines using lightweight local and Hugging Face models.
 
-`Hugging Face` · `Transformers` · `Whisper` · `BLIP` · `MobileNet` · `Gradio`
+<br>
+
+`Whisper` · `BLIP` · `MobileNet` · `Transformers` · `Hugging Face` · `Gradio`
+
+<br><br>
 
 ---
 
 ### `Hotel Database Management System`
 
-A database-driven application developed to explore structured data management and backend logic.
+**Database-driven application**
 
-**Core:** `Python` · `MySQL` · `Database Design`
+<br>
 
----
+A Python and MySQL project focused on structured data management, database design and application logic.
 
-## `04` — EXPERIENCE
+<br>
 
-### IIT Jammu — Artificial Intelligence
+`Python` · `MySQL`
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=35F5D0" width="55%"/>
+
+## `EXPERIENCE`
+
+<br>
+
+### IIT Jammu · Artificial Intelligence
 
 **AI Intern · 2026**
 
-Worked with technologies across modern AI application development and automation.
+<br>
 
-```text
-n8n
-NLP
-Vapi
-Clay AI
-OpenAI SDK
-Transformers
-Hugging Face
-Gradio
-Telegram / WhatsApp Bots
-```
-
-Additional learning and exploration:
-
-`Anthropic Claude` · `Vertex AI` · `MCP` · `RAG` · `LangChain`
-
----
-
-## `05` — SOFTWARE × HARDWARE
-
-My engineering background gives me a second perspective on software:
-
-```text
-             SOFTWARE
-                │
-                ▼
-       ┌─────────────────┐
-       │       AI        │
-       └────────┬────────┘
-                │
-                ▼
-        INTELLIGENT LOGIC
-                │
-                ▼
-       ┌─────────────────┐
-       │   ELECTRONICS   │
-       └────────┬────────┘
-                │
-                ▼
-              IoT
-```
-
-I am particularly interested in systems where software intelligence interacts with physical devices, sensors and real-world environments.
-
----
-
-## `06` — CURRENTLY BUILDING
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=700&color=35F5D0&width=650&lines=Improving+Data+Structures+%26+Algorithms;Building+AI-powered+applications;Exploring+LLM+systems+%26+AI+agents;Learning+modern+software+engineering;Connecting+AI+with+real-world+systems." alt="Current focus"/>
+Worked with modern AI development and automation technologies including:
 
 <br>
 
-```text
-DSA                    ███████████████░░░░░  75%
-SOFTWARE ENGINEERING   █████████████░░░░░░░  65%
-GENERATIVE AI          ████████████████░░░░  80%
-AI AGENTS              ███████████████░░░░░  75%
-ELECTRONICS            ████████████████░░░░  80%
-IoT                    ████████████░░░░░░░░  60%
-```
-
----
-
-## `07` — SYSTEM LOG
-
-```text
-[2026]  AI Internship ───────────────────── COMPLETED
-[2026]  CloudNest AI ────────────────────── BUILT
-[2026]  Multimodal AI Experiments ───────── ACTIVE
-[2026]  MCP / RAG / Agents ──────────────── EXPLORING
-[2026]  DSA & Software Engineering ──────── IN PROGRESS
-[∞]     Building ────────────────────────── CONTINUOUS
-```
-
----
-
-## `08` — BEYOND CODE
-
-Photography is another way I approach problem solving.
-
-I enjoy travelling, exploring unfamiliar places and finding perspectives that are easy to overlook.
-
-**25+ countries. Different environments. One objective — see things differently.**
-
-```text
-EXPLORE  →  OBSERVE  →  FRAME  →  CREATE
-```
-
----
-
-## `09` — GITHUB SIGNAL
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=050505&title_color=35F5D0&text_color=C8D7D4&icon_color=35F5D0&ring_color=35F5D0" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=050505&ring=35F5D0&fire=35F5D0&currStreakLabel=35F5D0&sideLabels=C8D7D4&dates=70807C&currStreakNum=E8FFFB&sideNums=E8FFFB" height="165"/>
+`n8n` · `NLP` · `Vapi` · `Clay AI` · `OpenAI SDK`
+`Transformers` · `Hugging Face` · `Gradio` · `Telegram / WhatsApp Bots`
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=050505&color=35F5D0&line=35F5D0&point=E8FFFB&area=true&hide_border=true" width="95%"/>
+Additional exploration:
+
+`Anthropic Claude` · `Vertex AI` · `MCP` · `RAG` · `LangChain`
 
 </div>
 
----
-
-## `10` — CONNECT
+<br>
 
 <div align="center">
 
-### `LET'S BUILD SOMETHING INTERESTING.`
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=35F5D0" width="55%"/>
+
+## `SOFTWARE × HARDWARE`
 
 <br>
 
+**Software**
+
+↓
+
+**Artificial Intelligence**
+
+↓
+
+**Intelligent Systems**
+
+↓
+
+**Electronics**
+
+↓
+
+**IoT**
+
+<br><br>
+
+My engineering background allows me to approach problems from both a software and hardware perspective, with a particular interest in intelligent systems that interact with the physical world.
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=35F5D0" width="55%"/>
+
+## `CURRENTLY EXPLORING`
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=700&color=35F5D0&center=true&vCenter=true&width=750&height=45&lines=Data+Structures+%26+Algorithms;Software+Engineering;Generative+AI;LLM+Systems;AI+Agents;RAG+%26+MCP;Intelligent+Automation" alt="Currently exploring"/>
+
+<br><br>
+
+**Learning. Building. Experimenting. Repeating.**
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=35F5D0" width="55%"/>
+
+## `SYSTEM LOG`
+
+<br>
+
+`2026`   AI Internship — IIT Jammu
+
+`2026`   CloudNest AI — Built
+
+`2026`   Multimodal AI Experiments — Active
+
+`2026`   MCP / RAG / AI Agents — Exploring
+
+`∞`   Building — Continuous
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=35F5D0" width="55%"/>
+
+## `BEYOND CODE`
+
+<br>
+
+Photography is another way I explore the world.
+
+I enjoy travelling, discovering unfamiliar places and finding perspectives that are easy to overlook.
+
+<br>
+
+**25+ countries · Different perspectives · Continuous exploration**
+
+<br><br>
+
+`EXPLORE`   →   `OBSERVE`   →   `FRAME`   →   `CREATE`
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=35F5D0" width="55%"/>
+
+## `GITHUB`
+
+<br>
+
+<a href="https://github.com/vidhaannm07">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vidhaannm07&show_icons=true&hide_border=true&bg_color=00000000&title_color=35F5D0&text_color=C8D7D4&icon_color=35F5D0" height="165"/>
+
+</a>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vidhaannm07&bg_color=00000000&color=35F5D0&line=35F5D0&point=E8FFFB&area=true&hide_border=true" width="90%"/>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=35F5D0&center=true&vCenter=true&width=700&height=45&lines=LET'S+BUILD+SOMETHING+INTERESTING." alt="Let's build"/>
+
+<br><br>
+
 <a href="https://vidhaanmportfolio.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-35F5D0?style=for-the-badge&labelColor=050505&color=35F5D0"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-050505?style=for-the-badge&logo=googlechrome&logoColor=35F5D0&labelColor=050505&color=35F5D0" />
 </a>
 
 <a href="https://www.linkedin.com/in/vidhaan-mathur-a2b54337a/">
-<img src="https://img.shields.io/badge/LINKEDIN-35F5D0?style=for-the-badge&labelColor=050505&color=35F5D0"/>
+<img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=35F5D0&labelColor=050505&color=35F5D0" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GITHUB-35F5D0?style=for-the-badge&labelColor=050505&color=35F5D0"/>
+<a href="https://github.com/vidhaannm07">
+<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=35F5D0&labelColor=050505&color=35F5D0" />
 </a>
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
-<img src="https://img.shields.io/badge/LEETCODE-35F5D0?style=for-the-badge&labelColor=050505&color=35F5D0"/>
+<a href="https://leetcode.com/vidhaanm07/">
+<img src="https://img.shields.io/badge/LEETCODE-050505?style=for-the-badge&logo=leetcode&logoColor=35F5D0&labelColor=050505&color=35F5D0" />
 </a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:35F5D0,50:071414,100:050505"/>
 
 </div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:061f1c,50:071414,100:050505"/>
-
-</div>
-
-<!--
-────────────────────────────────────────────────────────────────────
-                    VIDHAAN MATHUR
-             SOFTWARE × AI × ELECTRONICS × IoT
-────────────────────────────────────────────────────────────────────
--->
