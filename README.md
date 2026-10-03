@@ -11,7 +11,7 @@
 
 <img
   src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:35F5D0,100:050505&height=2&section=header"
-  width="50%"
+  width="100%"
 />
 
 <br><br>
