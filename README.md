@@ -598,33 +598,9 @@ Exploring unique and less-explored places through different perspectives.
 </tr>
 </table>
 
-<br><br>
+<br>
 
-<!-- DIRECT CLICKABLE LINKS -->
-
-<a href="https://in.linkedin.com/in/vidhaan-mathur-a2b54337a">
-LinkedIn
-</a>
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-<a href="https://github.com/vidhaanm07">
-GitHub
-</a>
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-<a href="https://leetcode.com/u/vidhaanm07/">
-LeetCode
-</a>
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-<a href="https://vidhaanmportfolio.vercel.app/">
-Portfolio
-</a>
-
-<br><br>
+<br>
 
 <img
   src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:35F5D0,100:050505&height=2&section=footer"
