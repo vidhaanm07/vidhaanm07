@@ -1,349 +1,571 @@
-# ⚡ VIDHAAN MATHUR
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-### `Software Engineer in the Making • AI Builder • Electronics × Code • Photographer`
+<!--                         VIDHAAN // SYSTEM                              -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=850&lines=Building+with+Code+%2B+AI+%2B+Electronics;Exploring+Generative+AI+%7C+LLMs+%7C+AI+Agents;Turning+Ideas+into+Working+Systems;Always+Learning.+Always+Building.+%F0%9F%9A%80" alt="Typing animation" />
-</p>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <a href="https://vidhaanmportfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00E5FF?style=for-the-badge&logoColor=black" />
-  </a>
-  <a href="https://www.linkedin.com/in/vidhaan-mathur-a2b54337a/">
-    <img src="https://img.shields.io/badge/💼%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/💻%20GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/🧠%20LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:001B2E,100:00E5FF&text=VIDHAAN%20MATHUR&fontSize=52&fontColor=00E5FF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20AI%20BUILDER%20%7C%20ELECTRONICS%20×%20CODE&descAlignY=60&descSize=15&animation=twinkling"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=%5BSYSTEM+ONLINE%5D;Initializing+Vidhaan.exe...;AI+%2B+Software+%2B+Electronics;Building+things+that+actually+work.;LLMs+%7C+AI+Agents+%7C+Automation+%7C+IoT;Learn.+Build.+Break.+Debug.+Repeat."/>
+
+<br>
+
+<a href="https://vidhaanmportfolio.vercel.app/">
+<img src="https://img.shields.io/badge/%E2%9A%A1%20PORTFOLIO-00E5FF?style=for-the-badge&logoColor=black"/>
+</a>
+<a href="https://www.linkedin.com/in/vidhaan-mathur-a2b54337a/">
+<img src="https://img.shields.io/badge/%F0%9F%92%BC%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/%F0%9F%92%BB%20GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/%F0%9F%A7%A0%20LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=SYSTEM%20VISITORS&color=00e5ff&style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 🧬 `WHO AM I?`
+# `01 // BOOT SEQUENCE`
 
 ```text
-┌──────────────────────────────────────────────────────────┐
-│  NAME       → Vidhaan Mathur                             │
-│  ROLE       → Software Engineer in the Making            │
-│  EDUCATION  → B.Tech @ Thapar Institute of Engineering   │
-│               & Technology                               │
-│  DOMAIN     → AI × Software × Electronics × IoT          │
-│  CURRENTLY  → Building, experimenting & learning         │
-│  MINDSET    → Learn → Build → Break → Fix → Repeat      │
-└──────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│   ██████╗ ███████╗██╗   ██╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ██╗     │
+│   ██╔══██╗██╔════╝██║   ██║██╔════╝ ██║  ██║██╔══██╗████╗  ██║     │
+│   ██║  ██║█████╗  ██║   ██║██║  ███╗███████║███████║██╔██╗ ██║     │
+│   ██║  ██║██╔══╝  ╚██╗ ██╔╝██║   ██║██╔══██║██╔══██║██║╚██╗██║     │
+│   ██████╔╝███████╗ ╚████╔╝ ╚██████╔╝██║  ██║██║  ██║██║ ╚████║     │
+│   ╚═════╝ ╚══════╝  ╚═══╝   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝     │
+│                                                                      │
+│                 [ USER PROFILE INITIALIZED ]                         │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
-I'm an engineering student fascinated by the intersection of **software, artificial intelligence, electronics and the physical world**.
+```bash
+$ whoami
 
-I like taking an idea that exists only on paper and turning it into something that actually **runs, responds and solves a problem**.
+vidhaan@future-dev:~$ cat profile.txt
 
-My current interests revolve around:
+NAME        : Vidhaan Mathur
+ROLE        : Software Engineer in the Making
+EDUCATION   : B.Tech — Thapar Institute of Engineering & Technology
+FOCUS       : Software Engineering + AI + Electronics
+STATUS      : BUILDING
+LOCATION    : India
+MISSION     : Turn ideas into systems.
+```
 
-* 🤖 **Generative AI**
-* 🧠 **LLMs & AI Agents**
-* 🔗 **AI Automation & Workflows**
-* 💻 **Software Engineering**
-* 🌐 **IoT & Connected Systems**
-* ⚡ **Electronics & Semiconductors**
-* 📊 **Data Structures & Algorithms**
-* 📷 **Photography & Visual Storytelling**
+> **I don't just want to use technology. I want to understand it, combine it, and build with it.**
 
 ---
 
-# 🧠 THE TECH STACK
+# `02 // CORE SYSTEM`
 
-### 🤖 AI / GENAI
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 ARTIFICIAL INTELLIGENCE
+
+```text
+Generative AI
+LLMs
+AI Agents
+RAG
+NLP
+Transformers
+Computer Vision
+Multimodal AI
+```
+
+</td>
+<td width="50%">
+
+### ⚙️ ENGINEERING
+
+```text
+Software Engineering
+Data Structures & Algorithms
+Python
+C / C++
+SQL
+APIs
+Automation
+Git / GitHub
+```
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 🔌 ELECTRONICS
+
+```text
+Digital Electronics
+Analog Electronics
+Instrumentation
+Signals & Systems
+Sensors
+Semiconductors
+IoT
+Tinkercad
+```
+
+</td>
+<td>
+
+### 🌐 BUILDING
+
+```text
+AI Workflows
+AI Assistants
+Automation Pipelines
+Web Projects
+Database Systems
+IoT Simulations
+Multimodal Pipelines
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+# `03 // TECH MATRIX`
+
+### `> PROGRAMMING`
 
 <p>
-<img src="https://img.shields.io/badge/Generative_AI-111111?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI_Agents-00E5FF?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,git,github,vscode&theme=dark"/>
 </p>
 
-### 💻 PROGRAMMING
+### `> AI / MACHINE LEARNING`
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-FF00FF?style=for-the-badge"/>
 </p>
 
-### ⚙️ AI / AUTOMATION ECOSYSTEM
+### `> AUTOMATION / AI ECOSYSTEM`
 
 <p>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MCP-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-00E5FF?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenAI%20SDK-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Vapi-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge"/>
 </p>
 
-### 🛠️ TOOLS & PLATFORMS
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Autodesk_Tinkercad-1477D4?style=for-the-badge"/>
-</p>
-
 ---
 
-# 🚀 WHAT I'VE BEEN BUILDING
+# `04 // ACTIVE PROJECTS`
 
-## ☁️ CloudNest AI
+## ☁️ `CLOUDNEST AI`
 
-> **An AI-powered support automation system**
-
-A project focused on turning customer-support workflows into an intelligent automated pipeline.
+### `AI-POWERED SUPPORT AUTOMATION`
 
 ```text
-Customer
-   │
-   ▼
-┌───────────────┐
-│   AI Intake   │
-└───────┬───────┘
-        ▼
-┌─────────────────────┐
-│ Classification      │
-│ • Category          │
-│ • Priority          │
-│ • Sentiment         │
-│ • Team              │
-│ • Human Required?   │
-└──────────┬──────────┘
-           ▼
-┌─────────────────────┐
-│ Workflow Automation │
-└──────────┬──────────┘
-           ▼
-      Human Agent
+                    ┌───────────────┐
+                    │   CUSTOMER    │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │   AI INTAKE   │
+                    └───────┬───────┘
+                            │
+                            ▼
+              ┌─────────────────────────┐
+              │     INTELLIGENCE        │
+              │                         │
+              │  Category               │
+              │  Priority               │
+              │  Sentiment              │
+              │  Team                   │
+              │  Human Required?        │
+              └────────────┬────────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │   AUTOMATION    │
+                  └────────┬────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │  HUMAN AGENT    │
+                  └─────────────────┘
 ```
 
-**Explored technologies:**
+**Stack**
 
-`n8n` `LLMs` `AI Agents` `Google Sheets` `APIs` `Automation` `NLP`
+`n8n` `LLMs` `NLP` `AI Agents` `Google Sheets` `APIs` `Automation`
 
 ---
 
-# 🧪 AI EXPERIMENTS
+## 🧪 `MULTIMODAL AI LAB`
 
-I've been experimenting with multimodal AI pipelines involving:
+Exploring how different modalities can be processed through lightweight AI pipelines.
 
 ```text
-TEXT  ───────────────► NLP / LLM
-IMAGE ───────────────► Computer Vision
-AUDIO ───────────────► Speech Recognition
-VIDEO ───────────────► Multimodal Processing
+              ┌─────────┐
+              │  TEXT   │ ─────► NLP / LLM
+              └─────────┘
+
+              ┌─────────┐
+              │ IMAGE   │ ─────► COMPUTER VISION
+              └─────────┘
+
+              ┌─────────┐
+              │  AUDIO  │ ─────► SPEECH AI
+              └─────────┘
+
+              ┌─────────┐
+              │  VIDEO  │ ─────► MULTIMODAL AI
+              └─────────┘
 ```
 
-Technologies I've worked with include:
+Explored:
 
-* Hugging Face Transformers
-* Hugging Face Pipelines
-* Whisper
-* BLIP
-* MobileNet
-* Gradio
-* NLP pipelines
-* Multimodal processing
+`Whisper` `BLIP` `MobileNet` `Transformers` `Hugging Face` `Gradio`
 
 ---
 
-# 🎓 EXPERIENCE
+## 🗄️ `HOTEL DATABASE MANAGEMENT SYSTEM`
 
-## 🧠 IIT Jammu — AI Internship
+A database-focused project exploring:
 
-Worked on practical AI systems involving:
+`Python` + `MySQL` + `Database Design`
 
-`Generative AI` • `LLMs` • `AI Agents` • `NLP` • `n8n` • `Vapi` • `Clay AI` • `OpenAI SDK`
-
-Also explored:
-
-`Transformers` • `Hugging Face` • `Gradio` • `LangChain` • `RAG` • `MCP` • `Anthropic`
-
-The experience pushed me beyond simply *using* AI tools toward understanding how different AI components can be connected into useful systems.
+Focused on managing structured hotel data and operations.
 
 ---
 
-# ⚡ ELECTRONICS × SOFTWARE
+# `05 // EXPERIENCE`
 
-My engineering background also gives me a strong interest in the hardware side of technology.
-
-I've worked with concepts around:
-
-* 🔌 Digital Electronics
-* ⚡ Analog Electronics
-* 📡 Instrumentation
-* 🧮 Signals & Systems
-* 🔋 Semiconductor fundamentals
-* 🌐 IoT
-* 🔧 Sensors & Measurement
-* 🖥️ Embedded/connected systems
-
-One of my early hands-on explorations involved **IoT simulation using Autodesk Tinkercad**.
-
-My long-term interest is where these worlds collide:
+## 🧠 IIT JAMMU — AI INTERN
 
 ```text
-             ┌─────────────┐
-             │   SOFTWARE  │
-             └──────┬──────┘
-                    │
-                    ▼
-          ┌───────────────────┐
-          │       AI          │
-          │  LLMs / Agents    │
-          └─────────┬─────────┘
-                    │
-                    ▼
-          ┌───────────────────┐
-          │    ELECTRONICS    │
-          └─────────┬─────────┘
-                    │
-                    ▼
-             ┌─────────────┐
-             │ REAL WORLD  │
-             └─────────────┘
+┌─────────────────────────────────────────────────────┐
+│                  IIT JAMMU                          │
+│                                                     │
+│  AI / GENAI / LLMs / AI AGENTS                      │
+│                                                     │
+│  ▸ n8n                                              │
+│  ▸ NLP                                              │
+│  ▸ Vapi                                             │
+│  ▸ Clay AI                                          │
+│  ▸ OpenAI SDK                                       │
+│  ▸ Transformers                                     │
+│  ▸ Hugging Face                                     │
+│  ▸ Gradio                                           │
+│  ▸ Telegram / WhatsApp Bots                         │
+│  ▸ LangChain                                        │
+│  ▸ RAG                                              │
+│  ▸ MCP                                              │
+│  ▸ Anthropic                                        │
+│                                                     │
+└─────────────────────────────────────────────────────┘
 ```
+
+### `THE INTERESTING PART`
+
+The goal wasn't simply to call an API.
+
+It was learning how **models + tools + workflows + context + automation** can be assembled into systems that perform useful tasks.
 
 ---
 
-# 📚 CURRENTLY LEVELING UP
+# `06 // ELECTRONICS × AI`
 
 ```text
-DSA                    █████████░  90%
-Python                 █████████░  90%
-AI / GenAI             ████████░░  80%
-LLMs & AI Agents       ████████░░  80%
-Automation             █████████░  90%
-C / C++                ███████░░░  70%
-SQL / Databases        ████████░░  80%
-Electronics            ████████░░  80%
-Software Engineering   ███████░░░  70%
+                         ┌─────────────┐
+                         │     AI      │
+                         │ LLMs/Agents │
+                         └──────┬──────┘
+                                │
+                                ▼
+                    ┌─────────────────────┐
+                    │      SOFTWARE       │
+                    │ Python / C / APIs   │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │    ELECTRONICS      │
+                    │ Sensors / Signals   │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │        IoT          │
+                    │ Connected Systems   │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                         REAL WORLD
 ```
 
-> *The percentages aren't scientific. They're a reminder that there's always another level.*
+My engineering background gives me a strong interest in connecting **software intelligence with physical systems**.
 
 ---
 
-# 🧩 PROJECT PHILOSOPHY
+# `07 // LEARNING ENGINE`
 
-I don't want to just collect technologies.
+```text
+             ┌─────────────────────────────┐
+             │        CURRENT STACK        │
+             └──────────────┬──────────────┘
+                            │
+           ┌────────────────┼────────────────┐
+           ▼                ▼                ▼
+        SOFTWARE           AI             HARDWARE
+           │                │                │
+           ▼                ▼                ▼
+         DSA              LLMs              IoT
+         Python         AI Agents        Electronics
+         C/C++            RAG             Sensors
+         SQL              NLP             Signals
+           │                │                │
+           └────────────────┼────────────────┘
+                            ▼
+                     SYSTEM THINKING
+```
 
-I want to understand **why they exist, how they work, and what can be built by combining them.**
+### Current priorities
+
+* 🧠 DSA & problem solving
+* 🤖 LLM application development
+* ⚡ AI agents
+* 🔗 Automation architecture
+* 💻 Software engineering
+* 🗃️ Databases
+* 🌐 Backend & APIs
+* 🔌 AI × IoT
+
+---
+
+# `08 // ENGINEERING MINDSET`
 
 ```python
-while True:
+class Vidhaan:
 
-    learn()
-    build()
-    experiment()
-    
-    if broken:
-        debug()
-    
-    improve()
+    def __init__(self):
+        self.mode = "BUILD"
+        self.curiosity = float("inf")
+
+    def learn(self, topic):
+        return f"Understanding {topic}..."
+
+    def build(self, idea):
+        return f"Turning {idea} into reality..."
+
+    def debug(self, problem):
+        return "Why is this broken? → Let's find out."
+
+    def repeat(self):
+        while True:
+            self.learn("something new")
+            self.build("something useful")
+            self.debug("something broken")
 ```
 
----
+### `RULE #01`
 
-# 📸 BEYOND CODE
+> **If you can build it, build it.**
 
-When I'm not building things, I'm usually looking through a camera.
+### `RULE #02`
 
-Photography is another way I like solving problems:
+> **If it breaks, understand why.**
 
-> **Find an ordinary scene → change the perspective → create something different.**
+### `RULE #03`
 
-I've travelled to **25+ countries**, and photography has made me especially interested in discovering places and perspectives that aren't immediately obvious.
-
-For me, both programming and photography share the same idea:
-
-**Look at things differently.**
+> **If it works, make it better.**
 
 ---
 
-# 🏆 CERTIFICATIONS / LEARNING
-
-Some areas I've explored through structured learning and programs:
-
-* 🧠 IIT Jammu AI Internship
-* 🤖 n8n Academy — n8n102 Integrations
-* 🧩 Anthropic Claude / Vertex AI / MCP
-* 🔗 Model Context Protocol
-* 📚 RAG & LangChain
-* ☁️ Google Cloud Arcade Facilitator Program 2026
-
----
-
-# 🎯 2026 → 2027
+# `09 // PHOTOGRAPHY MODE`
 
 ```text
-                 ┌─────────────────────┐
-                 │   SOFTWARE ENGINEER  │
-                 └──────────┬──────────┘
-                            │
-          ┌─────────────────┼─────────────────┐
-          ▼                 ▼                 ▼
-        DSA               AI/ML           SYSTEMS
-          │                 │                 │
-          ▼                 ▼                 ▼
-      Problem          AI Agents        Architecture
-       Solving          LLM Apps          Backend
-          │                 │                 │
-          └─────────────────┼─────────────────┘
-                            ▼
-                     BUILD REAL THINGS
+> Switching system mode...
+
+[ SOFTWARE MODE ]
+        ↓
+[ CAMERA MODE ]
+        ↓
+[ EXPLORE ]
+        ↓
+[ OBSERVE ]
+        ↓
+[ CHANGE PERSPECTIVE ]
+        ↓
+[ CAPTURE ]
 ```
 
-### My focus:
+Outside engineering, I'm a photographer interested in discovering **different perspectives and less-obvious places**.
 
-**→ Become a stronger software engineer**
-**→ Build production-oriented AI applications**
-**→ Get seriously good at DSA**
-**→ Understand systems beyond the surface**
-**→ Combine AI with electronics & IoT**
-**→ Keep experimenting**
+I've travelled to **25+ countries**, and photography has become another way I experiment with perspective.
+
+Because sometimes the best solution isn't to look harder.
+
+**It's to look differently.**
 
 ---
 
-# 🌐 FIND ME
+# `10 // ACHIEVEMENTS / LEARNING LOG`
 
-<p align="center">
+```text
+[✓] B.Tech @ Thapar Institute of Engineering & Technology
+[✓] IIT Jammu AI Internship
+[✓] n8n Academy — Integrations
+[✓] Anthropic / Claude learning
+[✓] Model Context Protocol exploration
+[✓] RAG / LangChain exploration
+[✓] Google Cloud Arcade Facilitator Program 2026
+[✓] AI automation projects
+[✓] Multimodal AI experiments
+[✓] IoT simulation projects
+[→] DSA grind
+[→] Software Engineering
+[→] More AI Agents
+[→] More things that probably shouldn't work... yet
+```
+
+---
+
+# `11 // GITHUB ACTIVITY`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=FF00FF&text_color=FFFFFF&bg_color=00000000" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&ring=00E5FF&fire=FF00FF&currStreakLabel=00E5FF" height="180"/>
+
+</div>
+
+---
+
+# `12 // CONTRIBUTION MATRIX`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=00000000&color=00E5FF&line=00E5FF&point=FF00FF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# `13 // LEETCODE TERMINAL`
+
+```text
+┌──────────────────────────────────────────────┐
+│              LEETCODE PROTOCOL               │
+├──────────────────────────────────────────────┤
+│                                              │
+│     [ INITIALIZING PROBLEM SOLVING ]         │
+│                                              │
+│     Arrays        █████████░░                │
+│     Strings       ████████░░░                │
+│     Linked Lists  ███████░░░░                │
+│     Trees         ██████░░░░░                │
+│     Graphs        █████░░░░░░                │
+│     DP            ████░░░░░░░                │
+│                                              │
+│     STATUS: GRINDING                         │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/%E2%86%92%20OPEN%20LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+---
+
+# `14 // FUTURE ROADMAP`
+
+```text
+2026
+ │
+ ├── Strengthen DSA
+ │
+ ├── Build AI applications
+ │
+ ├── Learn deeper software engineering
+ │
+ ├── Build more AI agents
+ │
+ ├── Explore backend systems
+ │
+ └── Connect AI × Electronics × IoT
+          │
+          ▼
+2027
+ │
+ ├── Production-grade systems
+ ├── Advanced AI engineering
+ ├── Stronger system design
+ └── Bigger projects
+          │
+          ▼
+       SOFTWARE
+       ENGINEER
+```
+
+---
+
+# `15 // CONNECT`
+
+<div align="center">
+
+### `WANT TO BUILD SOMETHING?`
+
+<br>
 
 <a href="https://vidhaanmportfolio.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20MY%20PORTFOLIO-Explore-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%E2%9A%A1%20EXPLORE%20PORTFOLIO-00E5FF?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/vidhaan-mathur-a2b54337a/">
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/%F0%9F%92%BC%20CONNECT%20ON%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/vidhaanm07">
-<img src="https://img.shields.io/badge/🧠%20LEETCODE-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/%F0%9F%92%BB%20EXPLORE%20GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/%F0%9F%A7%A0%20LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
----
+<br><br>
 
-<p align="center">
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║       LEARN        BUILD        BREAK        REPEAT           ║
+║                                                              ║
+║                    [ SYSTEM ONLINE ]                         ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-### `BUILD • BREAK • LEARN • REPEAT`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:001B2E,100:050505&height=120&section=footer"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=100&section=footer"/>
-
-</p>
+</div>
