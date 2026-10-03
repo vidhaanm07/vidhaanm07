@@ -243,7 +243,7 @@ Analog Systems
 
 <tr>
 
-<td align="center" width="50%">
+<td align="center" valign="top" width="50%">
 
 ### CLOUDNEST AI
 
@@ -281,7 +281,7 @@ Human-in-the-Loop
 
 </td>
 
-<td align="center" width="50%">
+<td align="center" valign="top" width="50%">
 
 ### MULTIMODAL AI LAB
 
