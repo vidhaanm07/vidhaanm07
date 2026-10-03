@@ -1,125 +1,89 @@
+<!-- =========================
+     VIDHAAN MATHUR
+     GitHub Profile README
+========================= -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=34&duration=2800&pause=1000&color=35F5D0&center=true&vCenter=true&width=800&height=70&lines=VIDHAAN+MATHUR;SOFTWARE+%C3%97+AI+%C3%97+ELECTRONICS+%C3%97+IoT" alt="Vidhaan Mathur"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2800&pause=900&color=35F5D0&center=true&vCenter=true&width=800&lines=VIDHAAN+MATHUR;SOFTWARE+%C3%97+AI+%C3%97+ELECTRONICS+%C3%97+IoT;BUILDING+INTELLIGENT+SYSTEMS" alt="Typing Header"/>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=35F5D0" width="55%"/>
-
-<br><br>
-
-<code>SOFTWARE ENGINEER</code>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<code>AI / GENAI</code>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<code>ELECTRONICS</code>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<code>IoT</code>
-
-<br><br>
-
-Building intelligent systems at the intersection of <b>software, AI, electronics and automation.</b>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:0A1717,100:050505&height=2&section=header" width="80%"/>
 
 <br>
-
-Exploring <b>Generative AI, LLMs, AI agents, automation and embedded intelligence.</b>
-
-<br><br>
 
 <a href="https://www.linkedin.com/in/vidhaan-mathur-a2b54337/">
-<img src="https://img.shields.io/badge/LinkedIn-View%20Profile-35F5D0?style=flat-square&logo=linkedin&logoColor=35F5D0&labelColor=050505&color=050505"/>
+<img src="https://img.shields.io/badge/LINKEDIN-35F5D0?style=flat-square&logo=linkedin&logoColor=050505"/>
 </a>
-&nbsp;&nbsp;
+
 <a href="https://github.com/vidhaannm07">
-<img src="https://img.shields.io/badge/GitHub-View%20Repositories-35F5D0?style=flat-square&logo=github&logoColor=35F5D0&labelColor=050505&color=050505"/>
+<img src="https://img.shields.io/badge/GITHUB-35F5D0?style=flat-square&logo=github&logoColor=050505"/>
 </a>
-&nbsp;&nbsp;
+
 <a href="https://leetcode.com/u/vidhaanm07/">
-<img src="https://img.shields.io/badge/LeetCode-vidhaanm07-35F5D0?style=flat-square&logo=leetcode&logoColor=35F5D0&labelColor=050505&color=050505"/>
+<img src="https://img.shields.io/badge/LEETCODE-35F5D0?style=flat-square&logo=leetcode&logoColor=050505"/>
 </a>
-&nbsp;&nbsp;
+
 <a href="https://vidhaanmportfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-35F5D0?style=flat-square&logo=googlechrome&logoColor=35F5D0&labelColor=050505&color=050505"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-35F5D0?style=flat-square&logo=vercel&logoColor=050505"/>
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=35F5D0" width="35%"/>
+<sub>
+Software Engineer • AI Builder • Electronics Engineer • Photographer
+</sub>
 
 </div>
+
+<br>
 
 ---
 
 <div align="center">
 
-## `01` — PROFILE
-
-<br>
-
-<table>
-<tr>
-
-<td align="center" width="50%">
-
-### ENGINEERING
-
-Electronics Engineering  
-Instrumentation & Control
-
-<br>
-
-B.Tech — Thapar Institute of Engineering & Technology
-
-</td>
-
-<td align="center" width="50%">
-
-### FOCUS
-
-Software Engineering  
-Artificial Intelligence  
-Automation & IoT
-
-<br>
-
-GenAI • LLMs • AI Agents • Electronics
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-> **Software × AI × Electronics × IoT**
+## `01 — PROFILE`
 
 </div>
+
+<div align="center">
+
+I am **Vidhaan Mathur**, an Electronics Engineering student focused on becoming a **Software Engineer**.
+
+My work sits at the intersection of:
+
+**Software × AI × Electronics × IoT**
+
+I enjoy building practical systems involving **AI agents, GenAI, LLMs, automation, intelligent applications, IoT and electronics**.
+
+Currently exploring how software and AI can interact with real-world systems.
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:35F5D0,100:050505&height=1&section=header" width="55%"/>
+
+</div>
+
+<br>
 
 ---
 
 <div align="center">
 
-## `02` — WHAT I BUILD
+## `02 — WHAT I BUILD`
 
-<br>
+</div>
+
+<div align="center">
 
 <table>
 <tr>
-
-<td align="center" width="33%">
-
-### AI SYSTEMS
-
-Generative AI  
-LLMs  
-AI Agents  
-NLP  
-RAG  
-MCP
-
-</td>
-
-<td align="center" width="33%">
+<td align="center" width="220">
 
 ### SOFTWARE
 
@@ -132,16 +96,29 @@ Automation
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="220">
+
+### AI
+
+GenAI  
+LLMs  
+AI Agents  
+NLP  
+RAG  
+MCP
+
+</td>
+
+<td align="center" width="220">
 
 ### ENGINEERING
 
-IoT  
 Electronics  
 Instrumentation  
+IoT  
 Sensors  
-Semiconductors  
-Embedded Systems
+Digital Systems  
+Analog Systems
 
 </td>
 
@@ -150,64 +127,105 @@ Embedded Systems
 
 </div>
 
+<br>
+
 ---
 
 <div align="center">
 
-## `03` — TECHNOLOGY STACK
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,git,github,vscode,arduino" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-
-<br><br>
-
-<code>OpenAI SDK</code>
-&nbsp; <code>Hugging Face</code>
-&nbsp; <code>Transformers</code>
-&nbsp; <code>Gradio</code>
-&nbsp; <code>LangChain</code>
-&nbsp; <code>n8n</code>
-&nbsp; <code>MCP</code>
+## `03 — TECHNOLOGY STACK`
 
 </div>
 
+<div align="center">
+
+### PROGRAMMING
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql&theme=dark"/>
+
+<br><br>
+
+### AI / MACHINE LEARNING
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark"/>
+
+<br><br>
+
+**GenAI • LLMs • AI Agents • NLP • RAG • MCP • Transformers • Hugging Face**
+
+<br><br>
+
+### AUTOMATION / DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
+
+<br><br>
+
+**n8n • OpenAI SDK • LangChain • Vapi • Clay AI • Gradio • APIs**
+
+<br><br>
+
+### ENGINEERING
+
+**Digital Electronics • Analog Electronics • Instrumentation • Sensors • IoT**
+
+</div>
+
+<br>
+
 ---
 
 <div align="center">
 
-## `04` — FEATURED WORK
+## `04 — FEATURED WORK`
 
-<br>
+</div>
+
+<div align="center">
 
 <table>
 <tr>
 
-<td align="center" width="50%">
+<td width="45%" align="center">
 
-### CloudNest AI
+### CLOUDNEST AI
 
-AI-powered support automation system using:
+AI-powered customer support automation system.
 
-**n8n • LLMs • Classification • Sentiment Analysis • Human-in-the-loop**
+**Built with**
 
-Automated ticket analysis, priority detection, team assignment and workflow orchestration.
+n8n • LLMs • Google Sheets • APIs  
+Classification • Sentiment Analysis  
+Priority Detection • Human-in-the-Loop
+
+<br>
+
+Automates the journey from:
+
+**Customer Ticket → AI Analysis → Team Assignment → Resolution**
 
 </td>
 
-<td align="center" width="50%">
+<td width="45%" align="center">
 
-### Multimodal AI Lab
+### MULTIMODAL AI LAB
 
-Experimenting with multimodal pipelines using:
+Exploration of multimodal AI pipelines using lightweight local models.
 
-**Whisper • BLIP • MobileNet • Transformers • Gradio**
+**Built with**
 
-Exploring practical AI across text, image, audio and video.
+Hugging Face  
+Transformers  
+Whisper  
+BLIP  
+MobileNet  
+Gradio
+
+<br>
+
+Handles:
+
+**Text • Image • Audio • Video**
 
 </td>
 
@@ -215,27 +233,27 @@ Exploring practical AI across text, image, audio and video.
 
 <tr>
 
-<td align="center" width="50%">
+<td width="45%" align="center">
 
-### Hotel Database System
+### HOTEL DATABASE SYSTEM
 
-Database management application built using:
+Database management application developed using:
 
-**Python • MySQL**
+**Python + MySQL**
 
-Designed to handle structured hotel management operations.
+Includes structured database operations and management workflows.
 
 </td>
 
-<td align="center" width="50%">
+<td width="45%" align="center">
 
-### IoT & Electronics
+### IoT SIMULATION
 
-Building and simulating systems around:
+IoT and electronics simulation work using:
 
-**IoT • Sensors • Instrumentation • Electronics**
+**Autodesk Tinkercad**
 
-Including circuit and IoT simulations using Autodesk Tinkercad.
+Exploring sensors, circuits, embedded concepts and real-world system behaviour.
 
 </td>
 
@@ -244,187 +262,202 @@ Including circuit and IoT simulations using Autodesk Tinkercad.
 
 </div>
 
+<br>
+
 ---
 
 <div align="center">
 
-## `05` — AI / AUTOMATION
+## `05 — AI / AUTOMATION`
 
-<br>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=700&color=35F5D0&center=true&vCenter=true&width=700&height=40&lines=BUILDING+INTELLIGENT+WORKFLOWS;EXPLORING+LLMs+%2B+AI+AGENTS;AUTOMATING+REAL-WORLD+PROBLEMS" alt="AI animation"/>
-
-<br><br>
+<div align="center">
 
 <table>
 <tr>
-
 <td align="center">
 
-`LLMs`
+**AI AGENTS**
+
+Designing workflows where LLMs can reason, call tools and perform actions.
 
 </td>
-
-<td align="center">
-
-`AI AGENTS`
-
-</td>
-
-<td align="center">
-
-`RAG`
-
-</td>
-
-<td align="center">
-
-`MCP`
-
-</td>
-
-<td align="center">
-
-`NLP`
-
-</td>
-
-<td align="center">
-
-`AUTOMATION`
-
-</td>
-
 </tr>
-</table>
 
-</div>
-
----
-
-<div align="center">
-
-## `06` — EXPERIENCE & LEARNING
-
-<br>
-
-### IIT Jammu — AI Internship
-
-AI (Gen AI, LLMs & AI agents)
-
-<br><br>
-
-n8n • Vapi • Clay AI • OpenAI SDK • Hugging Face  
-Transformers • NLP • Gradio • Telegram / WhatsApp Bots
-
-<br><br>
-
-### Additional Learning
-
-Anthropic Claude • MCP • RAG • LangChain  
-Google Cloud Arcade Facilitator Program 2026  
-n8n Academy — n8n102 Integrations
-
-</div>
-
----
-
-<div align="center">
-
-## `07` — BEYOND CODE
-
-<br>
-
-Photography • Travel • Visual Storytelling
-
-<br><br>
-
-I enjoy exploring unfamiliar places and finding distinctive perspectives through photography.
-
-<br><br>
-
-<code>25+ COUNTRIES • PHOTOGRAPHY • EXPLORATION</code>
-
-</div>
-
----
-
-<div align="center">
-
-## `08` — GITHUB SIGNAL
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=800&color=35F5D0&center=true&vCenter=true&width=700&height=45&lines=GITHUB+%2F%2F+VIDHAANNM07;BUILDING+%C2%B7+COMMITTING+%C2%B7+LEARNING" alt="GitHub animation"/>
-
-<br><br>
-
-<table>
 <tr>
+<td align="center">
 
-<td align="center" width="50%">
+**GENAI**
 
-<img src="./profile/stats.svg" width="100%" alt="GitHub Statistics"/>
-
-</td>
-
-<td align="center" width="50%">
-
-<img src="./profile/top-langs.svg" width="100%" alt="Top Languages"/>
+Exploring generative AI, LLM applications and intelligent interfaces.
 
 </td>
+</tr>
 
+<tr>
+<td align="center">
+
+**MCP**
+
+Exploring Model Context Protocol and tool-based AI systems.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+**AUTOMATION**
+
+Building practical workflows using n8n, APIs, AI models and external services.
+
+</td>
 </tr>
 </table>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=35F5D0" width="45%"/>
-
-<br><br>
-
-<a href="https://github.com/vidhaannm07">
-<img src="https://img.shields.io/badge/Explore%20GitHub-050505?style=flat-square&logo=github&logoColor=35F5D0&labelColor=050505&color=35F5D0"/>
-</a>
-
 </div>
+
+<br>
 
 ---
 
 <div align="center">
 
-## `09` — CONNECT
+## `06 — EXPERIENCE & LEARNING`
+
+</div>
+
+<div align="center">
+
+### IIT JAMMU — AI INTERNSHIP
+
+**AI (Gen AI, LLMs & AI Agents)**
+
+Worked with:
+
+`n8n` • `NLP` • `Vapi` • `Clay AI`  
+`OpenAI SDK` • `Transformers` • `Hugging Face`  
+`Gradio` • `Telegram / WhatsApp Bots`
+
+<br>
+
+### ADDITIONAL LEARNING
+
+**Anthropic Claude with Vertex AI + MCP Advanced**
+
+Focused particularly on:
+
+**MCP • AI Agents • RAG • LLM Applications**
+
+<br>
+
+**n8n Academy — n8n102 Integrations**
+
+<br>
+
+**Google Cloud Arcade Facilitator Program 2026**
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## `07 — BEYOND CODE`
+
+</div>
+
+<div align="center">
+
+### PHOTOGRAPHY
+
+Photography is another way I approach technology and the world.
+
+I am part of the **FAPS Core Team** and enjoy exploring different perspectives through photography.
+
+<br>
+
+🌍 **25+ Countries**
+
+<br>
+
+My focus is on discovering **unique, less-explored places** and capturing them from perspectives that feel different.
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:35F5D0,100:050505&height=1&section=header" width="55%"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## `08 — GITHUB SIGNAL`
+
+<br>
+
+<img src="https://raw.githubusercontent.com/vidhaannm07/vidhaannm07/main/profile/stats.svg" width="95%" alt="GitHub Statistics"/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/vidhaannm07/vidhaannm07/main/profile/top-langs.svg" width="95%" alt="Top Languages"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## `09 — CONNECT`
 
 <br>
 
 <a href="https://www.linkedin.com/in/vidhaan-mathur-a2b54337/">
-<b>LinkedIn</b>
+LinkedIn
 </a>
 
-&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;•&nbsp;&nbsp;
 
 <a href="https://github.com/vidhaannm07">
-<b>GitHub</b>
+GitHub
 </a>
 
-&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;•&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/vidhaanm07/">
-<b>LeetCode</b>
+LeetCode
 </a>
 
-&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;•&nbsp;&nbsp;
 
 <a href="https://vidhaanmportfolio.vercel.app/">
-<b>Portfolio</b>
+Portfolio
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=35F5D0" width="30%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:35F5D0,100:050505&height=2&section=footer" width="80%"/>
 
-<br><br>
+<br>
 
-<sub>Building quietly. Learning continuously. Engineering what comes next.</sub>
+<sub>
+
+BUILD • LEARN • EXPERIMENT • REPEAT
+
+</sub>
 
 </div>
