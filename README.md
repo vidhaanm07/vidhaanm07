@@ -7,72 +7,54 @@
   alt="Vidhaan Mathur"
 />
 
-<br>
-
 <img
   src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:35F5D0,100:050505&height=2&section=header"
   width="100%"
 />
 
-<br><br>
+<br>
 
-<!-- FUTURISTIC NAVIGATION -->
+<!-- TOP NAVIGATION -->
 
 <table>
 <tr>
 
 <td align="center" width="180">
-
 <a href="https://in.linkedin.com/in/vidhaan-mathur-a2b54337a">
-  <b>◇ LINKEDIN ↗</b>
+<b>◇ LINKEDIN ↗</b>
 </a>
-
 <br>
-
 <sub>PROFESSIONAL</sub>
-
 </td>
 
-<td width="18"></td>
+<td width="15"></td>
 
 <td align="center" width="180">
-
 <a href="https://github.com/vidhaanm07">
-  <b>◇ GITHUB ↗</b>
+<b>◇ GITHUB ↗</b>
 </a>
-
 <br>
-
 <sub>PROJECTS</sub>
-
 </td>
 
-<td width="18"></td>
+<td width="15"></td>
 
 <td align="center" width="180">
-
 <a href="https://leetcode.com/u/vidhaanm07/">
-  <b>◇ LEETCODE ↗</b>
+<b>◇ LEETCODE ↗</b>
 </a>
-
 <br>
-
 <sub>PROBLEM SOLVING</sub>
-
 </td>
 
-<td width="18"></td>
+<td width="15"></td>
 
 <td align="center" width="180">
-
 <a href="https://vidhaanmportfolio.vercel.app/">
-  <b>◇ PORTFOLIO ↗</b>
+<b>◇ PORTFOLIO ↗</b>
 </a>
-
 <br>
-
 <sub>MY WORK</sub>
-
 </td>
 
 </tr>
@@ -313,7 +295,7 @@ Video Pipelines
 
 <tr>
 
-<td align="center" width="50%">
+<td align="center" valign="top" width="50%">
 
 ### HOTEL DATABASE SYSTEM
 
@@ -331,7 +313,7 @@ Structured database operations, data management and application workflows.
 
 </td>
 
-<td align="center" width="50%">
+<td align="center" valign="top" width="50%">
 
 ### IoT SIMULATION
 
@@ -554,7 +536,7 @@ Exploring unique and less-explored places through different perspectives.
 
 ## `09 — CONNECT`
 
-<br><br>
+<br>
 
 <table>
 <tr>
@@ -562,12 +544,10 @@ Exploring unique and less-explored places through different perspectives.
 <td align="center" width="180">
 
 <a href="https://in.linkedin.com/in/vidhaan-mathur-a2b54337a">
-
-### ◇ LINKEDIN ↗
-
+<b>◇ LINKEDIN ↗</b>
 </a>
 
-<br>
+<br><br>
 
 <sub>PROFESSIONAL</sub>
 
@@ -578,12 +558,10 @@ Exploring unique and less-explored places through different perspectives.
 <td align="center" width="180">
 
 <a href="https://github.com/vidhaanm07">
-
-### ◇ GITHUB ↗
-
+<b>◇ GITHUB ↗</b>
 </a>
 
-<br>
+<br><br>
 
 <sub>OPEN SOURCE</sub>
 
@@ -594,12 +572,10 @@ Exploring unique and less-explored places through different perspectives.
 <td align="center" width="180">
 
 <a href="https://leetcode.com/u/vidhaanm07/">
-
-### ◇ LEETCODE ↗
-
+<b>◇ LEETCODE ↗</b>
 </a>
 
-<br>
+<br><br>
 
 <sub>DSA / PROBLEM SOLVING</sub>
 
@@ -610,12 +586,10 @@ Exploring unique and less-explored places through different perspectives.
 <td align="center" width="180">
 
 <a href="https://vidhaanmportfolio.vercel.app/">
-
-### ◇ PORTFOLIO ↗
-
+<b>◇ PORTFOLIO ↗</b>
 </a>
 
-<br>
+<br><br>
 
 <sub>SELECTED WORK</sub>
 
@@ -623,6 +597,32 @@ Exploring unique and less-explored places through different perspectives.
 
 </tr>
 </table>
+
+<br><br>
+
+<!-- DIRECT CLICKABLE LINKS -->
+
+<a href="https://in.linkedin.com/in/vidhaan-mathur-a2b54337a">
+LinkedIn
+</a>
+
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+<a href="https://github.com/vidhaanm07">
+GitHub
+</a>
+
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/vidhaanm07/">
+LeetCode
+</a>
+
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+<a href="https://vidhaanmportfolio.vercel.app/">
+Portfolio
+</a>
 
 <br><br>
 
@@ -634,9 +634,7 @@ Exploring unique and less-explored places through different perspectives.
 <br><br>
 
 <sub>
-
 BUILD • LEARN • EXPERIMENT • REPEAT
-
 </sub>
 
 <br><br>
