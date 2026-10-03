@@ -490,47 +490,6 @@ Building — Continuous
 
 <div align="center">
 
-## `08` — GITHUB ACTIVITY
-
-<br>
-
-### `vidhaannm07`
-
-<a href="https://github.com/vidhaannm07">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vidhaannm07&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=050505&title_color=35F5D0&text_color=E8FFFB&icon_color=35F5D0&border_color=35F5D0" height="180"/>
-
-</a>
-
-  
-
-<a href="https://github.com/vidhaannm07">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidhaannm07&layout=compact&hide_border=true&langs_count=8&bg_color=050505&title_color=35F5D0&text_color=E8FFFB&border_color=35F5D0" height="180"/>
-
-</a>
-
-<br><br>
-
-<a href="https://github.com/vidhaannm07">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vidhaannm07&hide_border=true&background=050505&ring=35F5D0&fire=35F5D0&currStreakLabel=35F5D0&sideLabels=E8FFFB&currStreakNum=E8FFFB&sideNums=E8FFFB&dates=70807C" width="70%"/>
-
-</a>
-
-<br><br>
-
-<a href="https://github.com/vidhaannm07">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vidhaannm07&bg_color=050505&color=35F5D0&line=35F5D0&point=E8FFFB&area=true&hide_border=true&custom_title=Contribution%20Activity" width="90%"/>
-
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=vidhaannm07&label=PROFILE%20VIEWS&color=35F5D0&style=flat-square" />
-
-</div>
 
 ---
 
@@ -601,7 +560,5 @@ I enjoy travelling, discovering unfamiliar places and finding perspectives that 
 </a>
 
 <br><br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:35F5D0,35:071414,70:050505,100:000000&animation=fadeIn"/>
 
 </div>
