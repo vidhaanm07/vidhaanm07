@@ -1,8 +1,3 @@
-<!-- =========================
-     VIDHAAN MATHUR
-     GitHub Profile README
-========================= -->
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2800&pause=900&color=35F5D0&center=true&vCenter=true&width=850&lines=VIDHAAN+MATHUR;SOFTWARE+%C3%97+AI+%C3%97+ELECTRONICS+%C3%97+IoT;BUILDING+INTELLIGENT+SYSTEMS" alt="Typing Header"/>
@@ -417,7 +412,7 @@ My focus is on discovering **unique, less-explored places** and capturing them f
 <br>
 
 <img
-src="https://github.com/vidhaannm07/vidhaannm07/raw/refs/heads/main/profile/stats.svg"
+src="https://github-readme-stats.vercel.app/api?username=vidhaannm07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=35F5D0&text_color=E8FFFB&icon_color=35F5D0"
 width="95%"
 alt="GitHub Statistics"
 />
@@ -425,7 +420,7 @@ alt="GitHub Statistics"
 <br><br>
 
 <img
-src="https://github.com/vidhaannm07/vidhaannm07/raw/refs/heads/main/profile/top-langs.svg"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidhaannm07&layout=compact&langs_count=8&hide_border=true&bg_color=050505&title_color=35F5D0&text_color=E8FFFB"
 width="95%"
 alt="Top Languages"
 />
@@ -466,10 +461,7 @@ Portfolio
 
 <br><br>
 
-<img
-src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:35F5D0,100:050505&height=2&section=footer"
-width="80%"
-/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:35F5D0,100:050505&height=2&section=footer" width="80%"/>
 
 <br>
 
