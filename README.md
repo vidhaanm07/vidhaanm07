@@ -1,27 +1,33 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2800&pause=900&color=35F5D0&center=true&vCenter=true&width=850&lines=VIDHAAN+MATHUR;SOFTWARE+%C3%97+AI+%C3%97+ELECTRONICS+%C3%97+IoT;BUILDING+INTELLIGENT+SYSTEMS" alt="Typing Header"/>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2800&pause=900&color=35F5D0&center=true&vCenter=true&width=900&lines=VIDHAAN+MATHUR;SOFTWARE+%C3%97+AI+%C3%97+ELECTRONICS+%C3%97+IoT;BUILDING+INTELLIGENT+SYSTEMS"
+  alt="Vidhaan Mathur"
+/>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:0A1717,100:050505&height=2&section=header" width="80%"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:35F5D0,100:050505&height=2&section=header"
+  width="75%"
+/>
 
-<br>
+<br><br>
 
 <a href="https://www.linkedin.com/in/vidhaan-mathur-a2b54337/">
-<img src="https://img.shields.io/badge/LINKEDIN-35F5D0?style=flat-square&logo=linkedin&logoColor=050505"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-35F5D0?style=flat-square&logo=linkedin&logoColor=050505"/>
 </a>
-
-<a href="https://github.com/vidhaannm07">
-<img src="https://img.shields.io/badge/GITHUB-35F5D0?style=flat-square&logo=github&logoColor=050505"/>
+&nbsp;
+<a href="https://github.com/vidhaanm07">
+  <img src="https://img.shields.io/badge/GITHUB-35F5D0?style=flat-square&logo=github&logoColor=050505"/>
 </a>
-
+&nbsp;
 <a href="https://leetcode.com/u/vidhaanm07/">
-<img src="https://img.shields.io/badge/LEETCODE-35F5D0?style=flat-square&logo=leetcode&logoColor=050505"/>
+  <img src="https://img.shields.io/badge/LEETCODE-35F5D0?style=flat-square&logo=leetcode&logoColor=050505"/>
 </a>
-
+&nbsp;
 <a href="https://vidhaanmportfolio.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-35F5D0?style=flat-square&logo=vercel&logoColor=050505"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-35F5D0?style=flat-square&logo=vercel&logoColor=050505"/>
 </a>
 
 <br><br>
@@ -40,27 +46,21 @@ Software Engineer • AI Builder • Electronics Engineer • Photographer
 
 ## `01 — PROFILE`
 
-</div>
-
-<div align="center">
+<br>
 
 I am **Vidhaan Mathur**, an Electronics Engineering student focused on becoming a **Software Engineer**.
 
-My work sits at the intersection of:
+<br>
 
-### Software × AI × Electronics × IoT
+My interests sit at the intersection of:
 
-I enjoy building practical systems involving **AI agents, GenAI, LLMs, automation, intelligent applications, IoT and electronics**.
+### SOFTWARE × AI × ELECTRONICS × IoT
 
-Currently exploring how software and AI can interact with real-world systems.
-
-</div>
+I build and explore practical systems involving **software engineering, AI agents, GenAI, LLMs, automation, IoT and electronics**.
 
 <br>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:35F5D0,100:050505&height=1&section=header" width="55%"/>
+Currently exploring how intelligent software can interact with real-world systems.
 
 </div>
 
@@ -70,14 +70,14 @@ Currently exploring how software and AI can interact with real-world systems.
 
 <div align="center">
 
-## `02 — WHAT I BUILD`
+## `02 — CORE DOMAINS`
 
 <br>
 
 <table>
 <tr>
 
-<td align="center" width="220">
+<td align="center" width="250">
 
 ### SOFTWARE
 
@@ -90,9 +90,9 @@ Automation
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="250">
 
-### AI
+### ARTIFICIAL INTELLIGENCE
 
 GenAI  
 LLMs  
@@ -103,7 +103,7 @@ MCP
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="250">
 
 ### ENGINEERING
 
@@ -137,23 +137,19 @@ Analog Systems
 
 <br><br>
 
-### AI / MACHINE LEARNING
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark"/>
-
-<br><br>
-
-**GenAI • LLMs • AI Agents • NLP • RAG • MCP • Transformers • Hugging Face**
-
-<br><br>
-
-### AUTOMATION / DEVELOPMENT
+### DEVELOPMENT
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
 
 <br><br>
 
-**n8n • OpenAI SDK • LangChain • Vapi • Clay AI • Gradio • APIs**
+### AI / AUTOMATION
+
+**GenAI • LLMs • AI Agents • NLP • RAG • MCP**
+
+<br><br>
+
+**n8n • OpenAI SDK • LangChain • Transformers • Hugging Face • Gradio • Vapi • Clay AI**
 
 <br><br>
 
@@ -177,7 +173,7 @@ Analog Systems
 
 <tr>
 
-<td width="45%" align="center">
+<td align="center" width="50%">
 
 ### CLOUDNEST AI
 
@@ -185,39 +181,45 @@ AI-powered customer support automation system.
 
 <br>
 
-**Built with**
-
-n8n • LLMs • Google Sheets • APIs
-
-Classification • Sentiment Analysis  
-Priority Detection • Human-in-the-Loop
+**n8n • LLMs • Google Sheets • APIs**
 
 <br>
 
-**Customer Ticket → AI Analysis → Team Assignment → Resolution**
+Classification  
+Sentiment Analysis  
+Priority Detection  
+Team Assignment  
+Human-in-the-Loop
+
+<br><br>
+
+`Customer Ticket → AI Analysis → Assignment → Resolution`
 
 </td>
 
-<td width="45%" align="center">
+<td align="center" width="50%">
 
 ### MULTIMODAL AI LAB
 
-Exploration of multimodal AI pipelines using lightweight local models.
+Exploration of lightweight multimodal AI pipelines.
 
 <br>
 
-**Built with**
+**Hugging Face • Transformers • Gradio**
 
-Hugging Face  
-Transformers  
+<br>
+
 Whisper  
 BLIP  
 MobileNet  
-Gradio
+Text Pipelines  
+Image Pipelines  
+Audio Pipelines  
+Video Pipelines
 
-<br>
+<br><br>
 
-**Text • Image • Audio • Video**
+`TEXT • IMAGE • AUDIO • VIDEO`
 
 </td>
 
@@ -225,11 +227,11 @@ Gradio
 
 <tr>
 
-<td width="45%" align="center">
+<td align="center" width="50%">
 
 ### HOTEL DATABASE SYSTEM
 
-Database management application developed using:
+Database management application built using:
 
 <br>
 
@@ -237,15 +239,15 @@ Database management application developed using:
 
 <br>
 
-Structured database operations and management workflows.
+Structured database operations, data management and application workflows.
 
 </td>
 
-<td width="45%" align="center">
+<td align="center" width="50%">
 
 ### IoT SIMULATION
 
-IoT and electronics simulation work using:
+IoT and electronics simulation using:
 
 <br>
 
@@ -280,7 +282,7 @@ Exploring sensors, circuits, embedded concepts and real-world system behaviour.
 
 ### AI AGENTS
 
-Designing workflows where LLMs can reason, call tools and perform actions.
+Building workflows where LLMs can reason, use tools and perform actions.
 
 </td>
 </tr>
@@ -290,7 +292,7 @@ Designing workflows where LLMs can reason, call tools and perform actions.
 
 ### GENERATIVE AI
 
-Exploring generative AI, LLM applications and intelligent interfaces.
+Exploring LLM applications, generative AI and intelligent interfaces.
 
 </td>
 </tr>
@@ -298,9 +300,9 @@ Exploring generative AI, LLM applications and intelligent interfaces.
 <tr>
 <td align="center">
 
-### MCP
+### MODEL CONTEXT PROTOCOL
 
-Exploring Model Context Protocol and tool-based AI systems.
+Exploring MCP and tool-connected AI systems.
 
 </td>
 </tr>
@@ -335,8 +337,6 @@ Building practical workflows using n8n, APIs, AI models and external services.
 
 <br>
 
-Worked with:
-
 `n8n` • `NLP` • `Vapi` • `Clay AI`
 
 `OpenAI SDK` • `Transformers` • `Hugging Face`
@@ -345,13 +345,13 @@ Worked with:
 
 <br><br>
 
-### ADDITIONAL LEARNING
+### ADVANCED AI LEARNING
 
 **Anthropic Claude with Vertex AI + MCP Advanced**
 
 <br>
 
-Focused particularly on:
+Focused on:
 
 **MCP • AI Agents • RAG • LLM Applications**
 
@@ -377,9 +377,11 @@ Focused particularly on:
 
 ### PHOTOGRAPHY
 
-Photography is another way I approach technology and the world.
+Photography is another way I explore technology, places and perspective.
 
-I am part of the **FAPS Core Team** and enjoy exploring different perspectives through photography.
+<br>
+
+**FAPS Core Team — Photographer**
 
 <br>
 
@@ -387,7 +389,7 @@ I am part of the **FAPS Core Team** and enjoy exploring different perspectives t
 
 <br>
 
-My focus is on discovering **unique, less-explored places** and capturing them from perspectives that feel different.
+Exploring unique and less-explored places through different perspectives.
 
 </div>
 
@@ -397,7 +399,10 @@ My focus is on discovering **unique, less-explored places** and capturing them f
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:35F5D0,100:050505&height=1&section=header" width="55%"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:35F5D0,100:050505&height=1&section=header"
+  width="55%"
+/>
 
 </div>
 
@@ -412,17 +417,17 @@ My focus is on discovering **unique, less-explored places** and capturing them f
 <br>
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=vidhaannm07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=35F5D0&text_color=E8FFFB&icon_color=35F5D0"
-width="95%"
-alt="GitHub Statistics"
+  src="./profile/stats.svg"
+  width="95%"
+  alt="GitHub Statistics"
 />
 
 <br><br>
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidhaannm07&layout=compact&langs_count=8&hide_border=true&bg_color=050505&title_color=35F5D0&text_color=E8FFFB"
-width="95%"
-alt="Top Languages"
+  src="./profile/top-langs.svg"
+  width="95%"
+  alt="Top Languages"
 />
 
 </div>
@@ -443,7 +448,7 @@ LinkedIn
 
 &nbsp;&nbsp;•&nbsp;&nbsp;
 
-<a href="https://github.com/vidhaannm07">
+<a href="https://github.com/vidhaanm07">
 GitHub
 </a>
 
@@ -461,7 +466,10 @@ Portfolio
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:35F5D0,100:050505&height=2&section=footer" width="80%"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:35F5D0,100:050505&height=2&section=footer"
+  width="75%"
+/>
 
 <br>
 
