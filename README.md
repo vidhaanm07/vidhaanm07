@@ -23,7 +23,7 @@
 
 <td align="center" width="180">
 
-<a href="https://www.in.linkedin.com/in/vidhaan-mathur-a2b54337/">
+<a href="https://in.linkedin.com/in/vidhaan-mathur-a2b54337a">
   <b>◇ LINKEDIN ↗</b>
 </a>
 
@@ -561,7 +561,7 @@ Exploring unique and less-explored places through different perspectives.
 
 <td align="center" width="180">
 
-<a href="https://www.in.linkedin.com/in/vidhaan-mathur-a2b54337/">
+<a href="https://in.linkedin.com/in/vidhaan-mathur-a2b54337a">
 
 ### ◇ LINKEDIN ↗
 
