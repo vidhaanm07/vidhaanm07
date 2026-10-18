@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:35F5D0,100:050505&height=2&section=header" width="100%" />
 
-<br>
+<br><br>
 
 <table>
 <tr>
@@ -21,7 +21,7 @@
 
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
 
@@ -32,7 +32,7 @@ Electronics Engineering student focused on becoming a **Software Engineer**, bui
 
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
 
@@ -46,7 +46,7 @@ Electronics Engineering student focused on becoming a **Software Engineer**, bui
 
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
 
@@ -63,7 +63,7 @@ Electronics Engineering student focused on becoming a **Software Engineer**, bui
 
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
 
@@ -80,7 +80,7 @@ Electronics Engineering student focused on becoming a **Software Engineer**, bui
 
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
 
@@ -95,7 +95,7 @@ Electronics Engineering student focused on becoming a **Software Engineer**, bui
 
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
 
@@ -110,7 +110,7 @@ Electronics Engineering student focused on becoming a **Software Engineer**, bui
 
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
 
@@ -122,7 +122,7 @@ Electronics Engineering student focused on becoming a **Software Engineer**, bui
 
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
 
@@ -132,12 +132,13 @@ Electronics Engineering student focused on becoming a **Software Engineer**, bui
 
 ## `08 — GITHUB SIGNAL`
 
-<img src="./profile/stats.svg" width="48%" alt="GitHub Statistics" />
-<img src="./profile/top-langs.svg" width="48%" alt="Top Languages" />
+<img src="./profile/stats.svg" height="180" alt="GitHub Statistics" />
+&nbsp;&nbsp;
+<img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
 
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
 
