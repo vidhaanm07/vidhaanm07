@@ -138,9 +138,12 @@ Electronics Engineering student focused on becoming a **Software Engineer**, bui
 
 ## `08 — GITHUB SIGNAL`
 
-<img src="./profile/stats.svg" height="180" alt="GitHub Statistics" />
-&nbsp;&nbsp;
-<img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
+<table width="90%">
+<tr>
+<td width="50%" valign="top"><img src="./profile/stats.svg?v=2" width="100%" alt="GitHub Statistics" /></td>
+<td width="50%" valign="top"><img src="./profile/top-langs.svg?v=2" width="100%" alt="Top Languages" /></td>
+</tr>
+</table>
 
 </div>
 
