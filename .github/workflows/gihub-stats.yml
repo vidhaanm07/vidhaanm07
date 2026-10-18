@@ -28,9 +28,12 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=vidhaanm07&layout=compact&langs_count=8&hide_border=true&bg_color=050505&title_color=35F5D0&text_color=E8FFFB
+          options: username=vidhaanm07&layout=compact&langs_count=4&hide_border=true&bg_color=050505&title_color=35F5D0&text_color=E8FFFB
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Resize Top Languages card to match stats card
+        run: python3 scripts/format_top_langs.py profile/top-langs.svg
 
       - name: Commit Generated Statistics
         run: |
