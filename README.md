@@ -58,6 +58,8 @@ Electronics Engineering student focused on becoming a **Software Engineer**, bui
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,git,github,vscode,postman&theme=dark"/>
 
+<br>
+
 | CATEGORY | TOOLS |
 |:---:|:---|
 | **AI** | `GenAI` `LLMs` `AI Agents` `NLP` `RAG` `MCP` |
@@ -126,13 +128,13 @@ Electronics Engineering student focused on becoming a **Software Engineer**, bui
 
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:35F5D0,100:050505&height=1&section=header" width="55%" />
 
-<br><br>
+<br>
 
 ## `08 — GITHUB SIGNAL`
 
@@ -142,11 +144,13 @@ Electronics Engineering student focused on becoming a **Software Engineer**, bui
 
 </div>
 
-<br><br>
+<br><
 
 <div align="center">
 
 ## `09 — CONNECT`
+
+<br>
 
 <table>
 <tr>
