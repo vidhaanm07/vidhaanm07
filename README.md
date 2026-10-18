@@ -144,7 +144,7 @@ Electronics Engineering student focused on becoming a **Software Engineer**, bui
 
 </div>
 
-<br><
+<br>
 
 <div align="center">
 
