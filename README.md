@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2800&pause=900&color=35F5D0&center=true&vCenter=true&width=900&lines=VIDHAAN+MATHUR;SOFTWARE+%C3%97+AI+%C3%97+ELECTRONICS+%C3%97+IoT;BUILDING+INTELLIGENT+SYSTEMS" alt="Vidhaan Mathur" />
 
-<br><br>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:35F5D0,100:050505&height=2&section=header" width="100%" />
 
