@@ -6,6 +6,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:35F5D0,100:050505&height=2&section=header" width="100%" />
 
+<br>
+
 <table>
 <tr>
 <td align="center" width="180"><a href="https://in.linkedin.com/in/vidhaan-mathur-a2b54337a"><b>◇ LINKEDIN ↗</b></a><br><sub>PROFESSIONAL</sub></td>
@@ -19,40 +21,32 @@
 
 </div>
 
----
+<br>
 
 <div align="center">
 
 ## `01 — PROFILE`
 
-I am **Vidhaan Mathur**, an Electronics Engineering student focused on becoming a **Software Engineer**.
-
-My interests sit at the intersection of: **`SOFTWARE × AI × ELECTRONICS × IoT`**
-
-I build and explore practical systems involving:
-**Software Engineering • AI Agents • GenAI • LLMs • Automation • IoT • Electronics**
-
-Currently exploring how intelligent software can interact with real-world systems.
+Electronics Engineering student focused on becoming a **Software Engineer**, building at the intersection of
+**`SOFTWARE × AI × ELECTRONICS × IoT`**
 
 </div>
 
----
+<br>
 
 <div align="center">
 
 ## `02 — CORE DOMAINS`
 
-<table>
-<tr>
-<td align="center" width="260"><b>SOFTWARE</b><br>Python • C / C++<br>MySQL • DSA<br>APIs • Automation</td>
-<td align="center" width="260"><b>ARTIFICIAL INTELLIGENCE</b><br>GenAI • LLMs<br>AI Agents • NLP<br>RAG • MCP</td>
-<td align="center" width="260"><b>ENGINEERING</b><br>Electronics • Instrumentation<br>IoT • Sensors<br>Digital & Analog Systems</td>
-</tr>
-</table>
+| SOFTWARE | ARTIFICIAL INTELLIGENCE | ENGINEERING |
+|:---:|:---:|:---:|
+| Python • C / C++ | GenAI • LLMs | Electronics • Instrumentation |
+| MySQL • DSA | AI Agents • NLP | IoT • Sensors |
+| APIs • Automation | RAG • MCP | Digital & Analog Systems |
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -60,112 +54,81 @@ Currently exploring how intelligent software can interact with real-world system
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,git,github,vscode,postman&theme=dark"/>
 
-**AI / AUTOMATION**
-`GENAI` • `LLMs` • `AI AGENTS` • `NLP` • `RAG` • `MCP`
-`n8n` • `OpenAI SDK` • `LangChain` • `Transformers` • `Hugging Face` • `Gradio` • `Vapi` • `Clay AI`
-
-**ENGINEERING**
-`Digital Electronics` • `Analog Electronics` • `Instrumentation` • `Sensors` • `IoT`
+| CATEGORY | TOOLS |
+|:---:|:---|
+| **AI** | `GenAI` `LLMs` `AI Agents` `NLP` `RAG` `MCP` |
+| **AUTOMATION** | `n8n` `OpenAI SDK` `LangChain` `Vapi` `Clay AI` |
+| **ML / NLP** | `Transformers` `Hugging Face` `Gradio` |
+| **ENGINEERING** | `Digital Electronics` `Analog Electronics` `Instrumentation` `Sensors` `IoT` |
 
 </div>
 
----
+<br>
 
 <div align="center">
 
 ## `04 — FEATURED WORK`
 
-<table>
-<tr>
-<td align="center" valign="top" width="50%">
+| PROJECT | STACK | HIGHLIGHTS |
+|:---|:---|:---|
+| **CloudNest AI** | `n8n` `LLMs` `Google Sheets` `APIs` | Ticket classification, sentiment & priority detection, team assignment, human-in-the-loop |
+| **Multimodal AI Lab** | `Hugging Face` `Transformers` `Gradio` | Whisper, BLIP, MobileNet across text, image, audio & video pipelines |
+| **Hotel Database System** | `Python` `MySQL` | Structured database operations, data management & application workflows |
+| **IoT Simulation** | `Autodesk Tinkercad` | Sensors, circuits & embedded concepts |
 
-**CLOUDNEST AI**<br>
-AI-powered customer support automation system.<br>
-`n8n` • `LLMs` • `Google Sheets` • `APIs`<br>
-Classification • Sentiment Analysis • Priority Detection • Team Assignment • Human-in-the-Loop<br>
-`CUSTOMER TICKET` → `AI ANALYSIS` → `ASSIGNMENT` → `RESOLUTION`
-
-</td>
-<td align="center" valign="top" width="50%">
-
-**MULTIMODAL AI LAB**<br>
-Exploration of lightweight multimodal AI pipelines.<br>
-`Hugging Face` • `Transformers` • `Gradio`<br>
-Whisper • BLIP • MobileNet • Text / Image / Audio / Video Pipelines<br>
-`TEXT • IMAGE • AUDIO • VIDEO`
-
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="50%">
-
-**HOTEL DATABASE SYSTEM**<br>
-Database management application built using `Python + MySQL`.<br>
-Structured database operations, data management and application workflows.
-
-</td>
-<td align="center" valign="top" width="50%">
-
-**IoT SIMULATION**<br>
-IoT and electronics simulation using `Autodesk Tinkercad`.<br>
-Exploring sensors, circuits, embedded concepts and real-world system behaviour.
-
-</td>
-</tr>
-</table>
+<sub>`CUSTOMER TICKET` → `AI ANALYSIS` → `ASSIGNMENT` → `RESOLUTION` &nbsp;·&nbsp; CloudNest AI workflow</sub>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
 ## `05 — AI / AUTOMATION`
 
-<table>
-<tr>
-<td align="center" width="50%"><b>AI AGENTS</b><br>Building workflows where LLMs can reason, use tools and perform actions.</td>
-<td align="center" width="50%"><b>GENERATIVE AI</b><br>Exploring LLM applications, generative AI and intelligent interfaces.</td>
-</tr>
-<tr>
-<td align="center"><b>MODEL CONTEXT PROTOCOL</b><br>Exploring MCP and tool-connected AI systems.</td>
-<td align="center"><b>AUTOMATION</b><br>Building practical workflows using n8n, APIs, AI models and external services.</td>
-</tr>
-</table>
+| FOCUS | WHAT I DO |
+|:---:|:---|
+| **AI Agents** | Workflows where LLMs reason, use tools and perform actions |
+| **Generative AI** | LLM applications and intelligent interfaces |
+| **MCP** | Tool-connected AI systems |
+| **Automation** | Practical workflows with n8n, APIs, AI models & external services |
 
 </div>
 
----
+<br>
 
 <div align="center">
 
 ## `06 — EXPERIENCE & LEARNING`
 
-**IIT JAMMU — AI INTERNSHIP** · AI (Gen AI, LLMs & AI Agents)
-`n8n` • `NLP` • `Vapi` • `Clay AI` • `OpenAI SDK` • `Transformers` • `Hugging Face` • `Gradio` • `Telegram / WhatsApp Bots`
-
-**ADVANCED AI LEARNING** · Anthropic Claude with Vertex AI + MCP Advanced
-Focused on: `MCP` • `AI Agents` • `RAG` • `LLM Applications`
-
-**n8n Academy — n8n102 Integrations** • **Google Cloud Arcade Facilitator Program 2026**
+| PROGRAM | FOCUS |
+|:---|:---|
+| **IIT Jammu — AI Internship** | Gen AI, LLMs & AI Agents • `n8n` `NLP` `Vapi` `Clay AI` `OpenAI SDK` `Transformers` `Hugging Face` `Gradio` Telegram / WhatsApp Bots |
+| **Anthropic Claude with Vertex AI + MCP Advanced** | `MCP` `AI Agents` `RAG` `LLM Applications` |
+| **n8n Academy — n8n102** | Integrations |
+| **Google Cloud Arcade Facilitator 2026** | Cloud learning program |
 
 </div>
 
----
+<br>
 
 <div align="center">
 
 ## `07 — BEYOND CODE`
 
-**PHOTOGRAPHY** — a way I explore technology, places and perspective.
-**FAPS Core Team — Photographer** • 🌍 **25+ Countries**
-Exploring unique and less-explored places through different perspectives.
+**PHOTOGRAPHY** &nbsp;•&nbsp; FAPS Core Team Photographer &nbsp;•&nbsp; 🌍 **25+ Countries**
+
+<sub>Exploring technology, places and perspective through photography.</sub>
 
 </div>
 
----
+<br>
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:35F5D0,100:050505&height=1&section=header" width="55%" />
+
+<br>
 
 ## `08 — GITHUB SIGNAL`
 
@@ -174,7 +137,7 @@ Exploring unique and less-explored places through different perspectives.
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -188,6 +151,8 @@ Exploring unique and less-explored places through different perspectives.
 <td align="center" width="180"><a href="https://vidhaanmportfolio.vercel.app/"><b>◇ PORTFOLIO ↗</b></a><br><sub>SELECTED WORK</sub></td>
 </tr>
 </table>
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:35F5D0,100:050505&height=2&section=footer" width="72%" />
 
