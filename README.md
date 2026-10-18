@@ -54,6 +54,8 @@ Electronics Engineering student focused on becoming a **Software Engineer**, bui
 
 ## `03 — TECHNOLOGY STACK`
 
+<br>
+
 <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,git,github,vscode,postman&theme=dark"/>
 
 | CATEGORY | TOOLS |
