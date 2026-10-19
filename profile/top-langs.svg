@@ -1,6 +1,6 @@
 <svg width="467" height="195" viewBox="0 0 467 195" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="titleId descId">
   <title id="titleId">Vidhaan Mathur's Most Used Languages</title>
-  <desc id="descId">HTML 69.77%, Jupyter Notebook 25.07%, JavaScript 3.90%, Python 1.26%</desc>
+  <desc id="descId">HTML 69.81%, Jupyter Notebook 25.04%, JavaScript 3.89%, Python 1.26%</desc>
   <style>
     .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #35F5D0; animation: fadeInAnimation 0.8s ease-in-out forwards; }
     @supports(-moz-appearance: auto) { .header { font-size: 15.5px; } }
@@ -20,30 +20,30 @@
   <g transform="translate(0, 55)">
     <svg x="25">
       <mask id="rect-mask"><rect x="0" y="0" width="417" height="8" fill="white" rx="4"/></mask>
-      <rect mask="url(#rect-mask)" x="0.00" y="0" width="290.94" height="8" fill="#e34c26"/>
-      <rect mask="url(#rect-mask)" x="290.94" y="0" width="104.54" height="8" fill="#DA5B0B"/>
-      <rect mask="url(#rect-mask)" x="395.48" y="0" width="16.26" height="8" fill="#f1e05a"/>
+      <rect mask="url(#rect-mask)" x="0.00" y="0" width="291.11" height="8" fill="#e34c26"/>
+      <rect mask="url(#rect-mask)" x="291.11" y="0" width="104.42" height="8" fill="#DA5B0B"/>
+      <rect mask="url(#rect-mask)" x="395.52" y="0" width="16.22" height="8" fill="#f1e05a"/>
       <rect mask="url(#rect-mask)" x="411.75" y="0" width="5.25" height="8" fill="#3572A5"/>
 
       <g transform="translate(0, 25)">
         <g class="stagger" style="animation-delay: 450ms">
           <circle cx="5" cy="6" r="5" fill="#e34c26"/>
           <text x="25" y="11" class="stat bold">HTML</text>
-          <text x="224" y="11" class="stat bold">69.77%</text>
+          <text x="224" y="11" class="stat bold">69.81%</text>
         </g>
       </g>
       <g transform="translate(0, 50)">
         <g class="stagger" style="animation-delay: 600ms">
           <circle cx="5" cy="6" r="5" fill="#DA5B0B"/>
           <text x="25" y="11" class="stat bold">Jupyter Notebook</text>
-          <text x="224" y="11" class="stat bold">25.07%</text>
+          <text x="224" y="11" class="stat bold">25.04%</text>
         </g>
       </g>
       <g transform="translate(0, 75)">
         <g class="stagger" style="animation-delay: 750ms">
           <circle cx="5" cy="6" r="5" fill="#f1e05a"/>
           <text x="25" y="11" class="stat bold">JavaScript</text>
-          <text x="224" y="11" class="stat bold">3.90%</text>
+          <text x="224" y="11" class="stat bold">3.89%</text>
         </g>
       </g>
       <g transform="translate(0, 100)">
